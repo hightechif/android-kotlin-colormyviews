@@ -10,4 +10,7 @@
     <color name="colorPrimary">#FFFFFFFF</color>
     <color name="colorPrimaryDark">#FFFFFFFF</color>
     <color name="colorAccent">#FFFFFFFF</color>
+    <color name="my_red">#FF0000</color>
+    <color name="my_yellow">#FFFF00</color>
+    <color name="my_green">#00FF00</color>
 </resources>
